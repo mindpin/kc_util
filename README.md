@@ -6,7 +6,7 @@
 
 Gemfile:
 ```ruby
-gem 'kc_utils'
+gem 'kc_utils', :github => 'mindpin/kc_utils', :tag => '0.0.1'
 ```
 
 运行:  
